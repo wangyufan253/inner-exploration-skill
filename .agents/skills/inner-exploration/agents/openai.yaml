@@ -1,0 +1,4 @@
+interface:
+  display_name: "心灵探索"
+  short_description: "用温暖而专业的方式陪你探索情感、关系、自我理解与人生意义"
+  default_prompt: "使用 $inner-exploration 陪我深入理解此刻的情感矛盾，并与我展开一场温暖、诚实的心灵对话。"
